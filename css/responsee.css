@@ -926,3 +926,14 @@ nav.breadcrumb-nav ul li:last-child:after {content:"";}
   margin:0 auto;
   display:block;
 }
+
+.tagline{
+    color: #989494;
+    font-weight: bold;
+    font-size: 10px;
+    margin-top: 7px;
+    text-align: right;
+    width: 194px;
+    padding-top: 2px;
+    letter-spacing: 0.3pt;
+}
