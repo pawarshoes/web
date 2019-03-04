@@ -515,17 +515,7 @@ footer p, footer a:visited, footer a, footer a:hover {
   }
   .owl-controls.clickable {
   	display: none!important;
-  }
-	.tagline{
-		color: #989494;
-    font-weight: bold;
-    font-size: 10px;
-    margin-top: 7px;
-    text-align: right;
-    width: 30%;
-    padding-top: 2px;
-    letter-spacing: 0.2pt;
-	}
+  }  
   .right {
   	float: none;
   }
@@ -554,4 +544,16 @@ footer p, footer a:visited, footer a, footer a:hover {
     font-size: 3em;
     line-height: 1.1;
   }
+}
+
+
+.tagline{
+    color: #989494;
+    font-weight: bold;
+    font-size: 10px;
+    margin-top: 7px;
+    text-align: right;
+    width: 194px;
+    padding-top: 2px;
+    letter-spacing: 0.3pt;
 }
