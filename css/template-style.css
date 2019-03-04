@@ -122,22 +122,24 @@ p.logo strong {
 	width: 30px;
 }
 #carousel .text h2 {
-	background: none repeat scroll 0 0 rgba(146, 197, 0, 0.8);
-	color: #fff;
-	display: inline-block;
-	font-size: 2em;
-	font-weight: 300;
-	margin: 1px 0;
-	max-width: 600px;
-	padding: 10px 20px;
-	width: 100%;
+	    background: none repeat scroll 0 0 rgba(146, 197, 0, 0.51);
+	    color: #fff;
+	    display: inline-block;
+	    font-size: 2em;
+	    font-weight: 300;
+	    margin: 1px 0;
+	    max-width: 600px;
+	    padding: 10px 20px;
+	    width: 100%;
+	    font-weight: bold;
 }
 #carousel .text p {
-	background: none repeat scroll 0 0 #00283a;
-	color: #fff;
-	max-width: 600px;
-	padding: 10px 20px;
-	width: 100%;
+	    background: none repeat scroll 0 0 #2e3c10bd;
+	    color: #fff;
+	    max-width: 600px;
+	    padding: 10px 20px;
+	    width: 100%;
+	    font-style: italic;
 }
 #carousel .owl-dots {
 	background: none repeat scroll 0 0 rgba(0, 40, 58, 0.53);
@@ -514,6 +516,16 @@ footer p, footer a:visited, footer a, footer a:hover {
   .owl-controls.clickable {
   	display: none!important;
   }
+	.tagline{
+		color: #989494;
+    font-weight: bold;
+    font-size: 10px;
+    margin-top: 7px;
+    text-align: right;
+    width: 30%;
+    padding-top: 2px;
+    letter-spacing: 0.2pt;
+	}
   .right {
   	float: none;
   }
