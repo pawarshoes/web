@@ -72,12 +72,12 @@ header {
 	z-index: 10;
 }
 p.logo {
-	color: #fff;
-	font-size: 1.7em;
-	font-weight: 300;
-	position: relative;
-	text-transform: uppercase;
-	top: 0.625em;
+	    color: #fff;
+	    font-size: 26px;
+	    font-weight: 300;
+	    position: relative;
+	    text-transform: uppercase;
+	    top: 0.625em;
 }
 p.logo strong {
 	font-weight: 700;
